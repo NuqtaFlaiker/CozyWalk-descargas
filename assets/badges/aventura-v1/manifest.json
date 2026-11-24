@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "style": "Pixel art cozy, contorno café, rosa, menta y dorado; PNG transparente sin texto.",
+  "generated_with": "built-in image_gen",
+  "badges": [
+    {
+      "code": "adventure_pets_1",
+      "objective": "pets_1",
+      "name": "Mi primera mascota",
+      "description": "Un pequeño compañero para una gran aventura.",
+      "requirement": "Consigue tu primera mascota, incluida Miel.",
+      "rarity": "common",
+      "collection": "Aventuras de CozyWalk",
+      "file": "pets_1.png",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "fc27be8403764d38ac9677a04542dfa1af735b8509e95a5c121497223d977cab"
+    },
+    {
+      "code": "adventure_first_style",
+      "objective": "first_style",
+      "name": "Mi primer estilo",
+      "description": "Tu rincón favorito empieza contigo.",
+      "requirement": "Guarda tu apariencia desde el creador.",
+      "rarity": "common",
+      "collection": "Aventuras de CozyWalk",
+      "file": "first_style.png",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "eeca78686bd43bedbfa94ec9a2cf40d569e07560b91d0e9bb654b760d5260887"
+    },
+    {
+      "code": "adventure_first_pet_roll",
+      "objective": "first_pet_roll",
+      "name": "Compañía sorpresa",
+      "description": "Una cápsula llena de nuevas aventuras.",
+      "requirement": "Consigue una mascota mediante una tirada del gacha Mascotas.",
+      "rarity": "common",
+      "collection": "Aventuras de CozyWalk",
+      "file": "first_pet_roll.png",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "bf442f8410c14ba1de95d5e168f2236fc20edb3dda2aa843d628e282255f361e"
+    },
+    {
+      "code": "adventure_trades_1",
+      "objective": "trades_1",
+      "name": "Manos amigas",
+      "description": "El primer intercambio de una bonita comunidad.",
+      "requirement": "Completa un intercambio con otro jugador.",
+      "rarity": "common",
+      "collection": "Aventuras de CozyWalk",
+      "file": "trades_1.png",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "118df2e747da35964e6d6a1898eb9929add8ad5c8afdf1f762cdb97596ac6f08"
+    },
+    {
+      "code": "adventure_collection_10",
+      "objective": "collection_10",
+      "name": "Tesoros de mi rincón",
+      "description": "Cada mueble guarda una pequeña historia.",
+      "requirement": "Consigue diez tipos de muebles diferentes.",
+      "rarity": "uncommon",
+      "collection": "Aventuras de CozyWalk",
+      "file": "collection_10.png",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "d6942e7adc7ee076159d086a638fe6a383bad54e38d75a18e754273764602f72"
+    },
+    {
+      "code": "adventure_weekly_habit",
+      "objective": "weekly_habit",
+      "name": "Una semana para recordar",
+      "description": "Pequeñas aventuras que se convierten en un gran recuerdo.",
+      "requirement": "Completa las dos metas de una misma semana.",
+      "rarity": "uncommon",
+      "collection": "Aventuras de CozyWalk",
+      "file": "weekly_habit.png",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "5a164041f0ae63fb402cb86939e382c467e6e27b0cd447db0c064f3f8689c9e5"
+    }
+  ]
+}
